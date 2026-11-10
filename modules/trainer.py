@@ -1,9 +1,4 @@
-"""Fine-tune a model on your own dataset.
 
-Expected folder layout (classes MUST be named benign / malignant):
-    data/train/benign/*.png   data/train/malignant/*.png
-    data/val/benign/*.png     data/val/malignant/*.png
-"""
 import json
 import logging
 
