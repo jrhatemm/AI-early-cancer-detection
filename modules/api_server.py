@@ -1,4 +1,3 @@
-"""FastAPI server so the website can call the real models."""
 import base64
 
 import cv2
